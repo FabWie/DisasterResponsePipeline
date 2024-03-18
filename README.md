@@ -26,6 +26,10 @@ Run these commands in the project's root directory to set up your database and m
 - ML pipeline cmds: python models/train_classifier.py ../data/DisasterResponse.db models/classifier.pkl
 - Web app cmds: python run.py => click on http://127.0.0.1:3000
 
+# Screenshoots:
+<img width="881" alt="image" src="https://github.com/FabWie/DisasterResponsePipeline/assets/30210533/572cb3e1-01d7-4894-b836-8bfae8a3c216">
+
+
 # Data Scoure:
 Udacity "Data Science" Nanodegree program / Appen (formerly Figure 8)
 
