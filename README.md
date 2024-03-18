@@ -1,4 +1,4 @@
-Disaster Response Pipeline
+Disaster Response Pipeline :
 "Disaster Response Pipeline" project is part of the Udacity "DataScience" nanodegree program.
 
 Project Overview :
