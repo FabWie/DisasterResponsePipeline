@@ -28,6 +28,16 @@ Run these commands in the project's root directory to set up your database and m
 
 # Screenshoots:
 <img width="881" alt="image" src="https://github.com/FabWie/DisasterResponsePipeline/assets/30210533/572cb3e1-01d7-4894-b836-8bfae8a3c216">
+<img width="795" alt="image" src="https://github.com/FabWie/DisasterResponsePipeline/assets/30210533/91eadd1a-b81c-4eb8-9c12-e3e76277c0c6">
+
+Example of Classify Message:
+
+MESSAGE = "Urgent: Hurricane Warning! Seek shelter immediately. High winds and heavy rainfall expected. Stay indoors and away from windows. Prepare emergency supplies and keep phones charged for updates"
+
+<img width="922" alt="image" src="https://github.com/FabWie/DisasterResponsePipeline/assets/30210533/7fe88574-79e4-4055-883c-edda3fa64aab">
+<img width="872" alt="image" src="https://github.com/FabWie/DisasterResponsePipeline/assets/30210533/1c7f2cd2-c1da-4fbd-9025-be66517967cc">
+<img width="873" alt="image" src="https://github.com/FabWie/DisasterResponsePipeline/assets/30210533/6282636b-cf29-4039-9fd9-69905d727e32">
+
 
 
 # Data Scoure:
