@@ -20,6 +20,25 @@ The project was developed using Python in the PyCharm IDE. It leveraged the foll
 - sklearn (scikit-learn)
 - sys
 
+# File structure:
+The data is structured in three folders (app/data/models):
+1. app:
+  contains a folder "templates" and a "run.py"
+  1.1 folder templates:
+   1.1.1 go.html
+   1.1.2 master.html
+  1.2 run.py  
+2. data
+   contains "DisasterResponse.db", "categories.csv", "messages.csv" and the process_data.py
+   2.1 "DisasterResponse.db"
+   2.2 "categories.csv"
+   2.3 "messages.csv"
+   2.4 process_data.py
+3. models
+   contains "classifier.pkl" and train_classifier.py
+   3.1 contains "classifier.pkl"
+   3.2 train_classifier.py 
+
 # Guidelines for executing data processing, model fitting, and launching the web application :
 Run these commands in the project's root directory to set up your database and model
 - ETL pipeline cmds: python data/process_data.py data/messages.csv data/categories.csv data/DisasterResponse.db
