@@ -25,8 +25,8 @@ The data is structured in three folders (app/data/models):
 1. app: <br />
   contains a folder "templates" and a "run.py" <br />
   - 1.1 folder templates contains files for web app:
-  - 1.1.1 go.html
-  - 1.1.2 master.html
+  - <p>1.1.1 go.html</p>
+  - <p>1.1.2 master.html</p>
   - 1.2 run.py script serves to initiate the Flask web application designed for classifying disaster messages.
 2. data: <br />
    contains "DisasterResponse.db", "categories.csv", "messages.csv" and the process_data.py
