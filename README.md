@@ -23,7 +23,7 @@ The project was developed using Python in the PyCharm IDE. It leveraged the foll
 # File structure:
 The data is structured in three folders (app/data/models):
 1. app: <br />
-  contains a folder "templates" and a "run.py" <br />
+  contains a folder "templates" and a "run.py"
   - 1.1 folder templates contains files for web app:
   - <p>1.1.1 go.html</p>
   - <p>1.1.2 master.html</p>
