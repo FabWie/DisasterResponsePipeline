@@ -24,7 +24,7 @@ The project was developed using Python in the PyCharm IDE. It leveraged the foll
 The data is structured in three folders (app/data/models):
 1. app: <br />
   contains a folder "templates" and a "run.py" <br />
-  - 1.1 folder templates contains files for web app: <br />
+  - 1.1 folder templates contains files for web app:
   - 1.1.1 go.html
   - 1.1.2 master.html
   - 1.2 run.py script serves to initiate the Flask web application designed for classifying disaster messages.
