@@ -29,6 +29,7 @@ def clean_data(df):
         categories[column] = categories[column].str[-1] # set each value to be the last character of the string
         categories[column] = categories[column].astype(int) # convert column from string to numeric
     df.drop(columns="categories", inplace=True) #drop column categories
+    df['related'] = df['related'].replace(2, 1) # replacement of 2s in column 'related' since it could lead to errors
     df.drop_duplicates(inplace=True) # drop duplicates
     clean_df = pd.concat([df, categories], axis=1, join="inner")
     return clean_df
